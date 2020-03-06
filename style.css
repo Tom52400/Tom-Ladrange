@@ -1,0 +1,53 @@
+body {
+background-image: url(images/23.jpg);
+color: black; 
+font-family: Courier; 
+width: 100%;
+}
+
+
+
+h1 {
+color: 010a43; 
+font-family: Playfair Display;
+font-weight: 60; 
+letter-spacing: 3px; 
+font-size: 60px; 
+}
+
+h2 {
+	font-family: Playfair Display;
+color: 010a43;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+#div {
+	background-color : white;
+	text-align: center;
+	border-radius: 40px;
+	padding: 5px; 
+	margin: 60px auto;
+	opacity: 0.7;
+	font-family: cambria, cochin, georgia, times, helvetica, serif;
+	font-size: 20px;
+	width: 1000px;
+
+}
+
+#logo {
+	height: 30px;
+
+}
+
+#logo:hover {
+	opacity: 0.5;
+}
+
+
+
+
+
